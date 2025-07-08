@@ -41,5 +41,31 @@ This Project is to analyze Employee data of Palmora Group, a manufacturing compa
 |  KPI Cards         | % Compliance with $90k minimum salary rule     |
 |  Table             | Employees below minimum salary                 |
 |  Column Chart      | Salary band distribution by region             |
+### Pointer 5: Bonus Allocation
+| Visual                    | Description                                     |
+|---------------------------|-------------------------------------------------|
+|  Calculated Columns      | Bonus Amount, Total Pay (Salary + Bonus)         |
+|  Matrix Table            | Bonus & Pay breakdown by region and department   |
+|  Stacked Column Chart    | Total Bonus by Region                            |
+|  Eligibility Flag        | Identifies missing or ineligible bonus entries   |
+##  Tools Used
 
+-  **Power BI** – Data visualization and dashboarding
+-  **Power Query / DAX** – Initial data cleanup and transformations, Advanced measures, calculated columns
+-  GitHub – Project documentation
+##  Notable Insights
+
+- **Gender Imbalance**: Male employees dominate across all regions and some departments lack any female staff.
+- **Pay Gap**: Males earn an average of **$X** more than females. Largest gaps in **Engineering** and **Retail**.
+- **Compliance Gaps**: **Y%** of employees earn below the $90,000 threshold—especially in Kaduna region.
+- **Ratings Trend**: Female staff tend to receive lower performance ratings on average.
+- **Bonus Allocation**: Total bonus payout = **$X**, with **Z%** going to Lagos region.
+##  Repository Contents
+
+| Folder/File           | Purpose                                           |
+|-----------------------|---------------------------------------------------|
+| `powerbi/`            | Power BI `.pbix` file with full dashboards        |
+| `visuals/`            | Exported PNG images of key charts                 |           
+| `README.md`           | Project summary and walkthrough                   |
+| `*.csv / *.xlsx`      | Raw and reference data   
 
