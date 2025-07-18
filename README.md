@@ -1,3 +1,4 @@
+![Palmoria Group HR Employee Data Analysis Dashboard](https://github.com/user-attachments/assets/2a8645cf-b8d0-4545-9570-96124e0e67b1)
 # Palmora-Group-HR-Gender-Pay-Analysis
 ##  Case Overview
 This Project is to analyze Employee data of Palmora Group, a manufacturing company in Nigeria, Which faced criticism for alleged gender inequality and pay disparities. My task was to conduct a comprehensive HR analytics review and generate actionable insights for executive decision-making.
