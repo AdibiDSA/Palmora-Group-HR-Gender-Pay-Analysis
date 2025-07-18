@@ -69,6 +69,26 @@ This Project is to analyze Employee data of Palmora Group, a manufacturing compa
 | `README.md`           | Project summary and walkthrough                   |
 | `*.csv / *.xlsx`      | Raw and reference data   
 
-![Palmoria Group HR Employee Data Analysis Dashboard](https://github.com/user-attachments/assets/da3dfca5-e94d-4a4c-8b43-3fe6e957e9df)
+<img width="1239" height="745" alt="Palmoria Group HR Employee Data Analysis Dashboard Updated jpg" src="https://github.com/user-attachments/assets/cc552370-d9ca-4ea4-9c8e-111335026fb6" />
+
+
+##  About Me
+
+**Adibi Mabun Olayinka**  
+ *B.Sc. Computer Science with Statistics*  
+ *Payroll Administrator | Junior Data Analyst*  
+
+---
+
+##  Contact
+
+- **Email**: [mabunolayinka@gmail.com](mailto:mabunolayinka@gmail.com)  
+- **Phone**: +234 816 631 1995  
+- **LinkedIn**: [linkedin.com/in/olayinka-mabun-90764669](https://www.linkedin.com/in/olayinka-mabun-90764669)
+
+
+
+
+
 
 
